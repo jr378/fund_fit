@@ -2,7 +2,7 @@
 
 **Find funders worth pursuing — and get application-ready faster.**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjr378%2Ffund_fit%2Ftree%2Fclaude%2Fblissful-allen-ctZlh&project-name=fundfit&repository-name=fundfit)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjr378%2Ffund_fit&project-name=fundfit&repository-name=fundfit)
 
 > One click to see it live — no env vars, database, or API keys required. The
 > button clones this branch and deploys it to your own Vercel account.
